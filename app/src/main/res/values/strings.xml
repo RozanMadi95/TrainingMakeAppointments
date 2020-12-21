@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">ViewApp</string>
+    <string name="tv_titel">شاشة حجز المواعيد</string>
+    <string name="tv_name">الاسم ثلاثي:</string>
+    <string name="et_name">الاسم</string>
+    <string name="tv_gender">الجنس:</string>
+    <string name="rbtn_male">ذكر</string>
+    <string name="rbtn_female">انثى</string>
+    <string name="tv_num_phone">رقم الهاتف: </string>
+    <string name="et_num_phone">رقم الهاتف </string>
+    <string name="tv_bd">تاريخ الميلاد: </string>
+    <string name="et_bd">اختر تاريخ الميلاد </string>
+    <string name="tv_place">مكان السكن: </string>
+    <string-array name="place">
+        <item>غزة</item>
+        <item>رفح</item>
+        <item>خانيونس</item>
+        <item>الوسطى</item>
+    </string-array>
+    <string name="tv_date_reservation">تاريخ الحجز: </string>
+    <string name="et_date_reservation">اختر تاريخ الحجز</string>
+    <string name="tv_hours">ساعة الحجز:</string>
+    <string name="et_hours">اختر الساعة </string>
+    <string name="tv_choose_medical">اختر العيادة:</string>
+    <string-array name="choose_medical">
+        <item>الأسنان</item>
+        <item>العظام</item>
+        <item>الباطنة</item>
+        <item>الأنف والاذن</item>
+    </string-array>
+    <string name="btn_confirm">تأكيد الحجز</string>
+    <string name="btn_clear">مسح الشاشة </string>
+
+
+</resources>
